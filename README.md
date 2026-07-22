@@ -1,11 +1,11 @@
 # Awesome-AI-Dating\n\n![Banner](assets/banner.svg)
-## Top AI Dating & Companion Apps + Open-Source Alternatives
+## 💘 Top AI Dating & Companion Apps + Open-Source Alternatives
 
 A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotional companion apps** along with their **open-source and self-hosted equivalents**. Primary emphasis on privacy-focused, customizable, and locally-run open-source solutions.
 
 **Last Updated**: July 2026
 
-## Table of Contents
+## 📋 Table of Contents
 
 - [Introduction](#introduction)
 - [Proprietary / Hosted Platforms](#proprietary--hosted-platforms)
@@ -15,13 +15,13 @@ A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotio
 - [Key Considerations](#key-considerations)
 - [Resources & Communities](#resources--communities)
 
-## Introduction
+## 📖 Introduction
 
 AI dating and companion apps leverage large language models (LLMs) for immersive conversations, roleplay, emotional support, voice interactions, and image generation. Many focus on uncensored/NSFW experiences. 
 
 **Open-source alternatives** stand out for full data privacy, no recurring fees, complete customization, and the ability to run offline on your hardware. They typically combine roleplay-tuned models with powerful frontends.
 
-## Proprietary / Hosted Platforms
+## 🏢 Proprietary / Hosted Platforms
 
 | Platform | Description | Key Features | Pricing | Free Tier / Limits | Strengths | Company Size |
 |----------|-------------|--------------|---------|--------------------|-----------|--------------|
@@ -40,7 +40,7 @@ AI dating and companion apps leverage large language models (LLMs) for immersive
 - **EVA AI**: Versatile chatbot companion.
 - **Husby (AI Partner)**: AI partner simulation.
 
-## Open-Source & Self-Hosted Alternatives
+## 🔓 Open-Source & Self-Hosted Alternatives
 
 These projects prioritize **privacy**, **uncensorship**, and **local execution**. Most use character card formats (Tavern/PNG) for easy sharing.
 
@@ -77,7 +77,7 @@ These projects prioritize **privacy**, **uncensorship**, and **local execution**
 
 Character cards and prompts are highly portable across these tools.
 
-## Comparison Table
+## 📊 Comparison Table
 
 | Aspect                  | Proprietary Platforms                  | Open-Source / Self-Hosted                  |
 |-------------------------|----------------------------------------|--------------------------------------------|
@@ -89,7 +89,7 @@ Character cards and prompts are highly portable across these tools.
 | **Multimodal (Voice/Image)** | Often built-in                       | Via extensions (e.g., SillyTavern)        |
 | **Performance**        | Consistent cloud power                | Depends on your GPU/CPU                   |
 
-## Getting Started with Open-Source
+## 🚀 Getting Started with Open-Source
 
 1. **Hardware**: GPU with 8GB+ VRAM recommended (NVIDIA preferred) for good speed.
 2. **Basic Setup**:
@@ -102,7 +102,7 @@ Character cards and prompts are highly portable across these tools.
    - PygmalionAI docs
    - r/PygmalionAI, r/LocalLLaMA
 
-## Key Considerations
+## ⚖️ Key Considerations
 
 - **Privacy & Safety**: Open-source wins for sensitive conversations.
 - **Model Choice**: Use uncensored/NSFW-tuned models for dating/roleplay.
@@ -110,7 +110,7 @@ Character cards and prompts are highly portable across these tools.
 - **Community**: Character sharing is vibrant in open-source ecosystems.
 - **Legal/Ethical**: Respect platform terms and local laws.
 
-## Resources & Communities
+## 🌐 Resources & Communities
 
 - GitHub: Search `ai-roleplay`, `SillyTavern`, `PygmalionAI`
 - Reddit: r/SillyTavernAI, r/LocalLLaMA, r/PygmalionAI
