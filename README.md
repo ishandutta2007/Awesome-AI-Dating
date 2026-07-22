@@ -4,8 +4,12 @@
 
 
 <div align="center">
+   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</div>
 
-<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>\n<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a></div>
+
 ## 💘 Top AI Dating & Companion Apps + Open-Source Alternatives
 
 A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotional companion apps** along with their **open-source and self-hosted equivalents**. Primary emphasis on privacy-focused, customizable, and locally-run open-source solutions.
@@ -22,7 +26,11 @@ A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotio
 - [Key Considerations](#key-considerations)
 - [Resources & Communities](#resources--communities)
 
-<div align="center">  <p><strong>Keywords:</strong> AI Dating, AI Girlfriend, AI Boyfriend, Uncensored AI, NSFW AI Chat, Roleplay AI, Open Source AI Companions, Self-hosted AI Dating, Chatbots, Character AI Alternatives.</p>\n</div>\n\n## 📖 Introduction
+<div align="center">
+   <p><strong>Keywords:</strong> AI Dating, AI Girlfriend, AI Boyfriend, Uncensored AI, NSFW AI Chat, Roleplay AI, Open Source AI Companions, Self-hosted AI Dating, Chatbots, Character AI Alternatives.</p>
+</div>
+
+## 📖 Introduction
 
 AI dating and companion apps leverage large language models (LLMs) for immersive conversations, roleplay, emotional support, voice interactions, and image generation. Many focus on uncensored/NSFW experiences. 
 
