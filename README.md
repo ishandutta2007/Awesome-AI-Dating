@@ -1,4 +1,11 @@
-# Awesome-AI-Dating\n\n![Banner](assets/banner.svg)\n\n<div align="center">\n<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>\n<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>\n</div>
+# Awesome-AI-Dating
+
+![Banner](assets/banner.svg)
+
+
+<div align="center">
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>\n<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a></div>
 ## 💘 Top AI Dating & Companion Apps + Open-Source Alternatives
 
 A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotional companion apps** along with their **open-source and self-hosted equivalents**. Primary emphasis on privacy-focused, customizable, and locally-run open-source solutions.
