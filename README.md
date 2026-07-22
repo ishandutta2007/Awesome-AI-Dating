@@ -1,4 +1,4 @@
-# Awesome-AI-Dating
+# Awesome-AI-Dating\n\n![Banner](assets/banner.svg)
 ## Top AI Dating & Companion Apps + Open-Source Alternatives
 
 A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotional companion apps** along with their **open-source and self-hosted equivalents**. Primary emphasis on privacy-focused, customizable, and locally-run open-source solutions.
@@ -23,29 +23,12 @@ AI dating and companion apps leverage large language models (LLMs) for immersive
 
 ## Proprietary / Hosted Platforms
 
-### CrushOn AI
-- **Description**: Uncensored NSFW roleplay and mature-themed chats with custom characters.
-- **Key Features**: No strict filters, community characters, immersive storytelling.
-- **Pricing**: Freemium (premium for higher limits).
-- **Strengths**: High freedom for adult content.
-
-### SpicyChat AI
-- **Description**: NSFW-focused AI chatbot platform for roleplay and fantasies.
-- **Key Features**: 200K+ community characters, tagging system, uncensored interactions.
-- **Pricing**: Limited free tier; Premium ~$15/mo for unlimited messages.
-- **Strengths**: Large library and permissive content.<grok-card data-id="022c96" data-type="citation_card" data-plain-type="" ></grok-card>
-
-### Janitor AI
-- **Description**: Platform for creating and chatting with AI characters in interactive stories.
-- **Key Features**: Massive user-generated library, world-building tools, roleplay focus.
-- **Pricing**: Freemium.
-- **Strengths**: Creative freedom and storytelling.<grok-card data-id="e4ad45" data-type="citation_card" data-plain-type="" ></grok-card>
-
-### Candy AI
-- **Description**: Realistic AI girlfriends/boyfriends with multimodal features.
-- **Key Features**: Chat, voice, image/video generation, memory persistence.
-- **Pricing**: Subscription-based.
-- **Strengths**: Visual and immersive companion experience.<grok-card data-id="c71ad9" data-type="citation_card" data-plain-type="" ></grok-card>
+| Platform | Description | Key Features | Pricing | Free Tier / Limits | Strengths | Company Size |
+|----------|-------------|--------------|---------|--------------------|-----------|--------------|
+| **CrushOn AI** | Uncensored NSFW roleplay and mature-themed chats with custom characters. | No strict filters, community characters, immersive storytelling. | Premium available | Freemium (limited messages) | High freedom for adult content. | ~$50M Valuation |
+| **Candy AI** | Realistic AI girlfriends/boyfriends with multimodal features. | Chat, voice, image/video generation, memory persistence. | Subscription-based | N/A | Visual and immersive companion experience.<grok-card data-id="c71ad9" data-type="citation_card" data-plain-type="" ></grok-card> | ~$30M Valuation |
+| **Janitor AI** | Platform for creating and chatting with AI characters in interactive stories. | Massive user-generated library, world-building tools, roleplay focus. | Premium available | Freemium | Creative freedom and storytelling.<grok-card data-id="e4ad45" data-type="citation_card" data-plain-type="" ></grok-card> | ~$10M Valuation |
+| **SpicyChat AI** | NSFW-focused AI chatbot platform for roleplay and fantasies. | 200K+ community characters, tagging system, uncensored interactions. | Premium ~$15/mo for unlimited messages | Limited free tier | Large library and permissive content.<grok-card data-id="022c96" data-type="citation_card" data-plain-type="" ></grok-card> | ~$5M Valuation |
 
 ### Other Notable Platforms
 - **Kalon.ai**: Personalized AI companions.
@@ -63,29 +46,29 @@ These projects prioritize **privacy**, **uncensorship**, and **local execution**
 
 ### Top Recommendations
 
-1. **SillyTavern** (Frontend) + **PygmalionAI** Models
+1. **Ollama + Open WebUI / LibreChat** [![GitHub Repo stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama)
+   - Easy self-hosted chat interface. Customize personas for companion/dating use.
+   - Great starting point for beginners.
+
+2. **SillyTavern** (Frontend) + **PygmalionAI** Models [![GitHub Repo stars](https://img.shields.io/github/stars/SillyTavern/SillyTavern?style=social&color=white)](https://github.com/SillyTavern/SillyTavern)
    - Feature-rich UI for roleplay with lorebooks, extensions (TTS, Stable Diffusion images), group chats, and advanced memory.
    - Connects to local backends or remote APIs.
    - Ideal Janitor AI / Character.AI replacement.<grok-card data-id="4ac686" data-type="citation_card" data-plain-type="" ></grok-card>
 
-2. **TavernAI** (including TavernAI 2)
-   - Desktop-focused roleplay app with branching conversations, dynamic cards, and prompt management.
-   - Portable and bring-your-own-LLM.<grok-card data-id="d3e2c6" data-type="citation_card" data-plain-type="" ></grok-card>
-
-3. **KoboldAI / KoboldCpp**
+3. **KoboldAI / KoboldCpp** [![GitHub Repo stars](https://img.shields.io/github/stars/LostRuins/koboldcpp?style=social&color=white)](https://github.com/LostRuins/koboldcpp)
    - Powerful backend for running LLMs locally with strong roleplay support.
    - Pairs excellently with SillyTavern.<grok-card data-id="dd2501" data-type="citation_card" data-plain-type="" ></grok-card>
 
-4. **Soul of Waifu**
-   - Desktop AI companion with Live2D/VRM avatars, voice chat, and local LLMs.
-   - Visual and immersive experience.<grok-card data-id="0ec0eb" data-type="citation_card" data-plain-type="" ></grok-card>
+4. **TavernAI** (including TavernAI 2) [![GitHub Repo stars](https://img.shields.io/github/stars/TavernAI/TavernAI?style=social&color=white)](https://github.com/TavernAI/TavernAI)
+   - Desktop-focused roleplay app with branching conversations, dynamic cards, and prompt management.
+   - Portable and bring-your-own-LLM.<grok-card data-id="d3e2c6" data-type="citation_card" data-plain-type="" ></grok-card>
 
-5. **OpenRoleplay.ai**
+5. **OpenRoleplay.ai** [![GitHub Repo stars](https://img.shields.io/github/stars/OpenRoleplay/OpenRoleplay.ai?style=social&color=white)](https://github.com/OpenRoleplay/OpenRoleplay.ai)
    - Full open-source Character.AI alternative with complete control over data and models.<grok-card data-id="a8b3cd" data-type="citation_card" data-plain-type="" ></grok-card>
 
-6. **Ollama + Open WebUI / LibreChat**
-   - Easy self-hosted chat interface. Customize personas for companion/dating use.
-   - Great starting point for beginners.
+6. **Soul of Waifu** [![GitHub Repo stars](https://img.shields.io/github/stars/waifu-project/soul-of-waifu?style=social&color=white)](https://github.com/waifu-project/soul-of-waifu)
+   - Desktop AI companion with Live2D/VRM avatars, voice chat, and local LLMs.
+   - Visual and immersive experience.<grok-card data-id="0ec0eb" data-type="citation_card" data-plain-type="" ></grok-card>
 
 ### Additional Open-Source Projects & Models
 - **PygmalionAI**: Roleplay-specialized LLMs (e.g., Pygmalion 2 series).<grok-card data-id="964396" data-type="citation_card" data-plain-type="" ></grok-card>
