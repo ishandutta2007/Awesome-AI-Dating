@@ -15,7 +15,7 @@ A comprehensive guide to leading **AI-powered dating, roleplay, NSFW, and emotio
 - [Key Considerations](#key-considerations)
 - [Resources & Communities](#resources--communities)
 
-## 📖 Introduction
+\n<div align="center">\n  <p><strong>Keywords:</strong> AI Dating, AI Girlfriend, AI Boyfriend, Uncensored AI, NSFW AI Chat, Roleplay AI, Open Source AI Companions, Self-hosted AI Dating, Chatbots, Character AI Alternatives.</p>\n</div>\n\n## 📖 Introduction
 
 AI dating and companion apps leverage large language models (LLMs) for immersive conversations, roleplay, emotional support, voice interactions, and image generation. Many focus on uncensored/NSFW experiences. 
 
