@@ -54,7 +54,7 @@ AI dating and companion apps leverage large language models (LLMs) for immersive
 - **DreamGF**: Dedicated AI girlfriend simulator.
 - **EVA AI**: Versatile chatbot companion.
 - **Husby (AI Partner)**: AI partner simulation.
-- **[RizzMaster](https://rizzmaster.net)**: AI dating game and Tinder simulator for iOS. Swipe, match, and text AI characters who reply like a real dating-app match, remember you, and go cold when your rizz does. A relationship meter moves with every message across nine levels, and a bad enough run ends in a permanent block. Practice flirting and texting with zero stakes. Free, no account, 15 languages. [App Store](https://apps.apple.com/us/app/rizzmaster-ai-dating-simulator/id6757169407)
+- **RizzMaster**: AI dating simulator where characters remember you and can block you for good.
 
 ## 🔓 Open-Source & Self-Hosted Alternatives
 
