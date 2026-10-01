@@ -54,6 +54,7 @@ AI dating and companion apps leverage large language models (LLMs) for immersive
 - **DreamGF**: Dedicated AI girlfriend simulator.
 - **EVA AI**: Versatile chatbot companion.
 - **Husby (AI Partner)**: AI partner simulation.
+- **RizzMaster**: AI dating simulator where characters remember you and can block you for good.
 
 ## 🔓 Open-Source & Self-Hosted Alternatives
 
