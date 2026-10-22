@@ -44,6 +44,7 @@ AI dating and companion apps leverage large language models (LLMs) for immersive
 | **Candy AI** | Realistic AI girlfriends/boyfriends with multimodal features. | Chat, voice, image/video generation, memory persistence. | Subscription-based | N/A | Visual and immersive companion experience.<grok-card data-id="c71ad9" data-type="citation_card" data-plain-type="" ></grok-card> | ~$30M Valuation |
 | **Janitor AI** | Platform for creating and chatting with AI characters in interactive stories. | Massive user-generated library, world-building tools, roleplay focus. | Premium available | Freemium | Creative freedom and storytelling.<grok-card data-id="e4ad45" data-type="citation_card" data-plain-type="" ></grok-card> | ~$10M Valuation |
 | **SpicyChat AI** | NSFW-focused AI chatbot platform for roleplay and fantasies. | 200K+ community characters, tagging system, uncensored interactions. | Premium ~$15/mo for unlimited messages | Limited free tier | Large library and permissive content.<grok-card data-id="022c96" data-type="citation_card" data-plain-type="" ></grok-card> | ~$5M Valuation |
+| **EroLove** | Adult (18+) roleplay chat with hand-written characters who remember you between chats. | Walk-in scenes, group chats with up to four characters, a memory page you can read and edit, photos and voice for credits. | Premium subscription | Freemium (a few messages a day, no card) | Consistent characters and long-term memory. | Early-stage |
 
 ### Other Notable Platforms
 - **Kalon.ai**: Personalized AI companions.
