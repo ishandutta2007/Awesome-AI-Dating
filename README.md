@@ -55,6 +55,7 @@ AI dating and companion apps leverage large language models (LLMs) for immersive
 - **EVA AI**: Versatile chatbot companion.
 - **Husby (AI Partner)**: AI partner simulation.
 - **RizzMaster**: AI dating simulator where characters remember you and can block you for good.
+- [Sammi: AI Girlfriend](https://sammiai.app/): Android AI companion with fictional character text chat, voice interaction, customization and creative roleplay; free download with in-app purchases.
 
 ## 🔓 Open-Source & Self-Hosted Alternatives
 
